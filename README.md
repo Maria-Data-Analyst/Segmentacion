@@ -10,3 +10,11 @@ El supermercado llamado  "El Mercado" enfrenta dificultades para adaptarse rápi
 2. Identificar grupos de clientes en los cuales la empresa puede enfocar sus esfuerzos.
 3. Desarrollar estrategias de fidelización basadas en los grupos identificados.
 4. Obtener conclusiones a través del análisis de los datos que faciliten la toma de decisiones empresariales.
+
+##  Índice
+* [Ficha técnica]
+* Análisis por Cohorte
+* [Presentación  de análisis y conclusiones]
+   
+### Herramientas y Lenguajes 
+- Google Sheets
