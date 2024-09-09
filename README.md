@@ -12,9 +12,9 @@ El supermercado llamado  "El Mercado" enfrenta dificultades para adaptarse rápi
 4. Obtener conclusiones a través del análisis de los datos que faciliten la toma de decisiones empresariales.
 
 ##  Índice
-* [Ficha técnica]
-* Análisis por Cohorte
-* [Presentación  de análisis y conclusiones]
+* [Ficha técnica](https://docs.google.com/document/d/1BvOMmig7lieFMWyFNwaWLeDL2P8wbTJ5KCf8E65dPas/edit?usp=sharing)
+* [Análisis por Cohorte](https://github.com/Maria-Data-Analyst/Segmentacion/blob/main/cohorte.md)
+* [Presentación  de análisis y conclusiones](https://docs.google.com/presentation/d/1XmOjKLhAPvPa4WsNg9QY5RntQSuDcnXiprz_xWCjA8w/edit?usp=sharing)
    
 ### Herramientas y Lenguajes 
 - Google Sheets
